@@ -1,0 +1,6 @@
+#Thu, 28 Sep 2017 18:42:35 +0200
+
+info.app.version=0.1
+info.app.name=app
+grails.env=development
+info.app.grailsVersion=3.3.0.RC1
